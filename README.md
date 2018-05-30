@@ -13,7 +13,7 @@
 Your online store must use WooCommerce platform (free wordpress plugin).
 Once you installed and activated WooCommerce, you may install and activate BlueOceanPay Payments for WooCommerce.
 
-### Features for free Version:
+### Features:
 * Support WeChat or AliPay payment through website on PC
 * Support WeChat or AliPay payment through scan QR code
 * If payment completed,will automatically redirect to order recevied page
