@@ -29,7 +29,7 @@ Once you installed and activated WooCommerce, you may install and activate BlueO
 
 ### Installation
 1.  Install WooCommerce plugin and configure your store (if you haven't done so already - http://wordpress.org/plugins/woocommerce/).
-2.  Install "BlueOceanPay for WooCommerce" wordpress plugin just like any other Wordpress plugin.
+2.  Download "blueocean-payments-for-woocommerce.zip", login your wordpress backend uploads and install.
 3.  Activate.
 4. Setup your BlueOceanPay appID, secret key, throuth <strong>Woocommerce -> Settings -> Payment Gateways -> WeChatPay</strong>.
    You can apply BlueOcean payment through: https://admin.hk.blueoceanpay.com/apply
