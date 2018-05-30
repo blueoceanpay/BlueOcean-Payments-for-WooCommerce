@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 深圳蓝海网络科技有限公司版权所有\n"
+"POT-Creation-Date: 2018-05-28 10:34+0800\n"
+"PO-Revision-Date: 2018-05-30 11:16+0800\n"
+"Last-Translator: andy <andy@blueoceanpay.com>\n"
+"Language-Team: 深圳蓝海网络科技有限公司 <andy@blueoceanpay.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Enable/Disable"
+msgstr "启用/禁用"
+
+msgid "Enable BlueOceanPay Payment"
+msgstr "启用蓝海支付"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "This controls the title which the user sees during checkout."
+msgstr "支付网关名称，用户结账时显示."
+
+msgid "BlueOceanPay"
+msgstr "蓝海支付"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "This controls the description which the user sees during checkout."
+msgstr "描述一下支付网关，用户结账时会看到."
+
+msgid "Pay via Wechat or AliPay scanning QR code"
+msgstr "通过手机微信或支付宝扫描二维码支付"
+
+msgid "Application ID"
+msgstr "AppID"
+
+msgid "Please enter the Application ID,If you don't have one, <a href=\"https://admin.hk.blueoceanpay.com/apply\" target=\"_blank\">click here</a> to get."
+msgstr "请输入蓝海支付 AppID，如果没有，<a href=\"https://admin.hk.blueoceanpay.com/apply\" target=\"_blank\">点击这里获取</a>."
+
+msgid "BlueOceanPay Key"
+msgstr "Secret Key"
+
+msgid "Please enter your BlueOceanPay Key; this is needed in order to take payment."
+msgstr "请输入你的蓝海支付 API 密钥。如果没有，<a href=\"https://admin.hk.blueoceanpay.com/apply\" target=\"_blank\">点击这里获取</a>."
+
+msgid "Invalid refused amount!"
+msgstr "无效的订单总额!"
+
+msgid "Please scan the QR code with WeChat or AliPay to finish the payment."
+msgstr "请通过微信或支付宝扫描二维码完成支付。"
+
+msgid "Debug log"
+msgstr "调试日志"
+
+msgid "Enable logging"
+msgstr "启用日志记录"
+
+msgid "Log payment events, such as payment requests. Note: this may log personal information. We recommend using this for debugging purposes only and deleting the logs when finished."
+msgstr "记录支付事件, 如付款请求。注意: 这可能记录个人信息。建议仅在调试时使用此功能, 并在完成后删除日志。"
+
+msgid "Settings"
+msgstr "设置"
