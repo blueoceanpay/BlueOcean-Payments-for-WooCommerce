@@ -43,6 +43,6 @@ Once you installed and activated WooCommerce, you may install and activate BlueO
 
 ### Changelog
 
-####1.0.0
+#### 1.0.0
 * [Added] Initial Version.
 
