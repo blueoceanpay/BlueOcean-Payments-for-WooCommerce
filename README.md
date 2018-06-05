@@ -46,3 +46,15 @@ Once you installed and activated WooCommerce, you may install and activate BlueO
 #### 1.0.0
 * [Added] Initial Version.
 
+### Demo
+
+#### Backend
+http://wordpress.rightyoo.net/wp-admin/
+
+#### Front
+http://wordpress.rightyoo.net/
+
+user: admin
+
+pass: 123456
+
