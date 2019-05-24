@@ -25,7 +25,7 @@ Once you installed and activated WooCommerce, you may install and activate BlueO
 * Project url in GitHub: https://github.com/blueoceanpay/BlueOcean-Payments-for-WooCommerce
 
 ### Support Mail:
-* Mailbox: andy@blueoceanpay.com
+* Mailbox: yun@blueoceanpay.com
 
 ### Installation
 1.  Install WooCommerce plugin and configure your store (if you haven't done so already - http://wordpress.org/plugins/woocommerce/).
@@ -48,13 +48,5 @@ Once you installed and activated WooCommerce, you may install and activate BlueO
 
 ### Demo
 
-#### Backend
-http://wordpress.rightyoo.net/wp-admin/
 
-#### Front
-http://wordpress.rightyoo.net/
-
-user: admin
-
-pass: 123456
 
