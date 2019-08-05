@@ -135,8 +135,8 @@ class BlueOceanWCPaymentGateway extends WC_Payment_Gateway
             return;
         }
 
-        $order_id       = $_POST['out_trade_no'];
-        $transaction_id = $_POST['transaction_id'];
+        $order_id       = isset($_POST['out_trade_no']) ? $_POST['out_trade_no'] : '';
+        $transaction_id = isset($_POST['transaction_id']) ? $_POST['transaction_id'] : '';
 
         file_put_contents('./post.txt', print_r($_POST, true));
 
